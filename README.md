@@ -1,6 +1,6 @@
 # Bank Note Verification  
 ### By Taro Iyadomi
-##### April 2 - ..., 2023  
+##### April 2 - 6, 2023  
 
 This project is part of AI Camp's Summer 2023 Data Science Internship training program. The goal of this project is to build a data science application from start to finish, using technologies like Matplotlib/Seaborn, XGBoost, and Flask.  
 
